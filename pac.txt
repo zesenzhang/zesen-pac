@@ -5,4 +5,5 @@
 .vimeocdn.com,
 .ads-twitter.com,
 .vimeo.com,
-.zesen.net
+.zesen.net,
+.akamaized.net
