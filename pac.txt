@@ -3,4 +3,5 @@
 .behance.net,
 .papaly.com,
 .vimeocdn.com,
-.ads-twitter.com
+.ads-twitter.com,
+.vimeo.com
