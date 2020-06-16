@@ -2,4 +2,5 @@
 .netgear.com,
 .behance.net,
 .papaly.com,
-.vimeocdn.com
+.vimeocdn.com,
+.ads-twitter.com
