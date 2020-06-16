@@ -1,4 +1,5 @@
 .substance3d.com,
 .netgear.com,
 .behance.net,
-.papaly.com
+.papaly.com,
+.vimeocdn.com
