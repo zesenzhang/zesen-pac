@@ -1,5 +1,5 @@
 [zesen的自定义规则]
 ! 用于AdGuard测试
 
-#btnull.org
+# btnull.org
 ||qisaoba.com^
