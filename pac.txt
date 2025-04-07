@@ -1,9 +1,1 @@
-.substance3d.com,
-.netgear.com,
-.behance.net,
-.papaly.com,
-.vimeocdn.com,
-.ads-twitter.com,
-.vimeo.com,
-.zesen.net,
-.akamaized.net
+
