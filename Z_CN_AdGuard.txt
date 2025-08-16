@@ -222,20 +222,22 @@
 
 #屏蔽迅雷广告
 ||adsp.xunlei.com^
+||advertpay-vip-ssl.xunlei.com^
 ||advertpay.vip.xunlei.com^
 ||analytics-union.xunlei.com^
-||api-u-ssl.xunlei.com^
 ||kkpgv2.xunlei.com^
-||live.xunlei.com^
 ||record.kuai.xunlei.com^
 ||soa-vip-ssl.xunlei.com^
-||soagw.pw.xunlei.com^
 ||stat.download.xunlei.com^
+||upgrade.xl9.xunlei.com^
+||xunlei.it^
+||api-u-ssl.xunlei.com^
+||live.xunlei.com^
+||soagw.pw.xunlei.com^
 ||advertpay-vip-ssl.xunlei.com^
 ||ct.niu.xunlei.com^
 ||mou.niu.xunlei.com^
 ||scene.vip.xunlei.com^
-||upgrade.xl9.xunlei.com^
 ||watch.advertising.speed.cdn.vip.xunlei.com^
 ||xunleiii.com^
 
