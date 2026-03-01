@@ -1,4 +1,6 @@
 # 屏蔽Adobe盗版检测
+||experienceleague-dev.adobe.com^$important
+||zn3n5vyia1vy8b4ly-adobe.siteintercept.qualtrics.com^$important
 ||genuine.adobe.com^
 ||lmlicenses.wip4.adobe.com^
 ||prod-rel-ffc-ccm.oobesaas.adobe.com^
