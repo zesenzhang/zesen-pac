@@ -1,4 +1,9 @@
 # 屏蔽Adobe盗版检测
+||genuine.adobe.com^
+||lmlicenses.wip4.adobe.com^
+||prod-rel-ffc-ccm.oobesaas.adobe.com^
+||cc-api-data.adobe.io^
+||adobe.com/genuine/*^$document
 
 ||www.adobe.com/genuine/ic-rws-ses-cx1-nc.html^$important
 
