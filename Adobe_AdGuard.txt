@@ -1,5 +1,8 @@
 # 屏蔽Adobe盗版检测
 ||genuine.adobe.com^$important
+||adobeid-na1.services.adobe.com^$important
+||lcs-cops.adobe.io^$important
+||crs.cr.adobe.com^$important
 ||client.messaging.adobe.com^$important
 ||adobestats.io^$important
 ||cc-api-behance.adobe.io^$important
