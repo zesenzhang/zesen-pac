@@ -1,4 +1,5 @@
 # 屏蔽Adobe盗版检测
+
 ||www.adobe.com/genuine/ic-rws-ses-cx1-nc.html^$important
 ||genuine.adobe.com^$important
 ||adobeid-na1.services.adobe.com^$important
