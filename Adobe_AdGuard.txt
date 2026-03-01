@@ -1,6 +1,7 @@
 # 屏蔽Adobe盗版检测
 
 ||www.adobe.com/genuine/ic-rws-ses-cx1-nc.html^$important
+
 ||genuine.adobe.com^$important
 ||adobeid-na1.services.adobe.com^$important
 ||lcs-cops.adobe.io^$important
@@ -10,6 +11,7 @@
 ||cc-api-behance.adobe.io^$important
 ||www-ccv.adobe.io^$important
 ||ic.adobe.io^$important
+
 ||cc-api-data.adobe.io^$important
 ||0mo5a70cqa.adobe.io^$important
 ||1b9khekel6.adobe.io^$important
