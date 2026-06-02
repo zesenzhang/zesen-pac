@@ -11,8 +11,12 @@
 ||analytics.tiktok.com^$important
 ||ad.doubleclick.net^$important
 ||adobeid-na1.services.adobe.com^$important
+||zn3n5vyia1vy8b4ly-adobe.siteintercept.qualtrics.com^$important
+||siteintercept.qualtrics.com^$important
 ||tr6.snapchat.com^$important
 ||crs.cr.adobe.com^$important
+||cctypekit.adobe.io^$important
+||api.demandbase.com^$important
 
 ||www.adobe.com/genuine/ic-rws-ses-cx1-nc.html^$important
 ||www.adobe.com/genuine/ic-rws-ses-cx2-nc.html^$important
