@@ -1,13 +1,25 @@
 # 屏蔽Adobe盗版检测
 ||experienceleague-dev.adobe.com^$important
 ||zn3n5vyia1vy8b4ly-adobe.siteintercept.qualtrics.com^$important
-||genuine.adobe.com^
-||lmlicenses.wip4.adobe.com^
-||prod-rel-ffc-ccm.oobesaas.adobe.com^
-||cc-api-data.adobe.io^
+||genuine.adobe.com^$important
+||lmlicenses.wip4.adobe.com^$important
+||prod-rel-ffc-ccm.oobesaas.adobe.com^$important
+||cc-api-data.adobe.io^$important
 ||adobe.com/genuine/*^$document
 
+||px.ads.linkedin.com^$important
+||analytics.tiktok.com^$important
+||ad.doubleclick.net^$important
+||adobeid-na1.services.adobe.com^$important
+||tr6.snapchat.com^$important
+||crs.cr.adobe.com^$important
+
 ||www.adobe.com/genuine/ic-rws-ses-cx1-nc.html^$important
+||www.adobe.com/genuine/ic-rws-ses-cx2-nc.html^$important
+||www.adobe.com/genuine/ic-rws-ses-cx3-nc.html^$important
+||www.adobe.com/genuine/ic-rws-ses-cx4-nc.html^$important
+||www.adobe.com/genuine/ic-rws-ses-cx5-nc.html^$important
+||www.adobe.com/genuine/ic-rws-ses-cx6-nc.html^$important
 
 ||genuine.adobe.com^$important
 ||adobeid-na1.services.adobe.com^$important
